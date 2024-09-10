@@ -1,5 +1,11 @@
 # livekit-plugins-deepgram
 
+## 0.6.7
+
+### Patch Changes
+
+- defaults to nova-2-general model - [#726](https://github.com/livekit/agents/pull/726) ([@davidzhao](https://github.com/davidzhao))
+
 ## 0.6.6
 
 ### Patch Changes
